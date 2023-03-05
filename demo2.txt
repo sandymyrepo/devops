@@ -1,1 +1,2 @@
 This is a new file. day2 GIT REVERT
+second line to understand git revert
